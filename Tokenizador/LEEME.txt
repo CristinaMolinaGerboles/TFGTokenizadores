@@ -1,0 +1,9 @@
+Hola chicos soy Juan.
+
+Bueno, os cuento. He distribuído el código en tres módulos: El main, el del manejo de ficheros y el del manejo de toda la lógica del tokenizador.
+
+Si ejecutáis el código os pedirá que os descarguéis una cosa. Vosotros decidle que sí. Se trata de un archivo que sirve para que luego el programa te dé toda la info
+acerca de cada palabra.
+
+En un futuro me molaría ver si podemos hacer el código orientado a objetos, estaría guay poner una interfaz tokenizador y que de ahí salieran los distintos tokenizadores
+para darle un poco más de flexibilidad al código, lo cual vendría de lujo cuando hagamos experimentos y midamos tiempos.
